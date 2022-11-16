@@ -1,5 +1,6 @@
 {
   "name": "koltata-taxi",
+  "homepage": "https://web-dev-champ.github.io/Kolkata-Taxi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,15 +9,19 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.2",
+    "gh-pages": "^4.0.0",
     "ionicons": "^6.0.4",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
     "react-cards": "^0.2.2",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.3",
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

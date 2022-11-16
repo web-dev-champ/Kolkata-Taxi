@@ -260,9 +260,9 @@
   }
   
   .footer-dark {
-    padding:50px 0;
+    padding:100px 0;
     color:#f0f9ff;
-    background-color:#282d32;
+    background-color:#000000;
   }
   
   .footer-dark h3 {
@@ -347,4 +347,37 @@
     opacity:0.3;
     font-size:13px;
     margin-bottom:0;
+  }
+
+  .FaqPic
+  {
+    width: 100%;
+    padding-right: 2%;
+    height: auto;
+  }
+
+  .Ques
+  {
+    padding: 10%;
+    background-color: rgb(21, 21, 21);
+  }
+
+  .ListQues
+  {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    border-color: white;
+    padding-left: 100px;
+  }
+
+  .QuHead
+  {
+    color: gold;
+    font-size: 20px;
+  }
+  .Ans
+  {
+    color: #ffffff;
   }

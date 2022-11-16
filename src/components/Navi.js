@@ -1,6 +1,7 @@
 import React from "react"
-import Icon from "./images/Icon.jpg"
+
 import "./style.css"
+import Navig from "./Navig"
 import bigimg from "./images/kolkata taxi Website logo.jpg"
 import Cardser1 from "./Cardser1"
 import Cardser2 from "./Cardser2"
@@ -13,28 +14,14 @@ import Footing from "./Footing"
 
 
 
+
+
 export default function Navi()
 {
     return(
         
         <div className="Body">
-            <div className="starterblock">
-                <div className="sbfirst">
-                    <img src={Icon} className="logo"/>
-                    <h4 className="sub1">KOLKATA TAXI SERVICES</h4>
-                    <p className="sub1" id="tag"><small>Your Transportation Specialists</small></p>
-                </div>
-                <nav className="navibar">
-                    <a className="navilink" href="#">Home</a>      
-                    <a className="navilink" href="#servicesoffered">Our Services</a>
-                    <a className="navilink" href="#Eventing">Events</a>
-                    <a className="navilink" href="#">FAQ</a>
-                    <a className="navilink" href="#About">About</a>
-                    <a className="navilink" href="#Contact">Contact</a>
-                    <a className="navilink" href="#Fleet">Fleet</a>
-                    <a className="navilink" href="#">Login/Signup</a>
-                </nav>
-            </div>
+            <Navig />
             <div className="Herofront">
                 <img className="Bigpic" src={bigimg} />
                 <div>
@@ -73,7 +60,7 @@ export default function Navi()
                 <Cardfleet2 />
                 <Cardfleet3 />
             </div>
-            <div className="Contact" id='contact'>
+            <div className="Contact" id='Contact'>
                 <section class="letsconnect" id="letsconnect">
                     <h1 className="LgLab1">Let's Connect</h1>
                     <form class="formGroup">
