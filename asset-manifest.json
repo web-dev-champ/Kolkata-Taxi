@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Kolkata-Taxi/static/css/main.934869e9.css",
+    "main.js": "/Kolkata-Taxi/static/js/main.0f13bce7.js",
+    "static/js/787.0aaceda0.chunk.js": "/Kolkata-Taxi/static/js/787.0aaceda0.chunk.js",
+    "static/media/Sspic.png": "/Kolkata-Taxi/static/media/Sspic.79d0d57bf6eaac701fca.png",
+    "static/media/kolkata taxi Website logo.jpg": "/Kolkata-Taxi/static/media/kolkata taxi Website logo.56c28545338d54728e1b.jpg",
+    "static/media/MaaDurga.jpg": "/Kolkata-Taxi/static/media/MaaDurga.8bd8153937aced569b5e.jpg",
+    "static/media/gd.jpg": "/Kolkata-Taxi/static/media/gd.66bc28c313af2b9270e6.jpg",
+    "static/media/Victoria.jpg": "/Kolkata-Taxi/static/media/Victoria.48364e86c4e81bbf97aa.jpg",
+    "static/media/ACKT.jpg": "/Kolkata-Taxi/static/media/ACKT.70414bdd62b7e230104e.jpg",
+    "static/media/SUV.jpg": "/Kolkata-Taxi/static/media/SUV.2ab9ee620c0238261b34.jpg",
+    "static/media/Pri.jpg": "/Kolkata-Taxi/static/media/Pri.0f4f63a077c89b25bdc2.jpg",
+    "static/media/Inter.jpg": "/Kolkata-Taxi/static/media/Inter.cb2fd634b4701cb6278f.jpg",
+    "static/media/YKT.jpg": "/Kolkata-Taxi/static/media/YKT.b6532ca99666d45f9506.jpg",
+    "static/media/Vip.jpg": "/Kolkata-Taxi/static/media/Vip.35cdb66b6bccb7efbf38.jpg",
+    "index.html": "/Kolkata-Taxi/index.html",
+    "main.934869e9.css.map": "/Kolkata-Taxi/static/css/main.934869e9.css.map",
+    "main.0f13bce7.js.map": "/Kolkata-Taxi/static/js/main.0f13bce7.js.map",
+    "787.0aaceda0.chunk.js.map": "/Kolkata-Taxi/static/js/787.0aaceda0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.934869e9.css",
+    "static/js/main.0f13bce7.js"
+  ]
+}
